@@ -1,11 +1,7 @@
 
 ### CAS SSO 单点登录记录
-
-- **作者：刘仁奎**
-- **个人网址**
-  - 程序喵：http://www.ibloger.net / http://www.chengxumiao.net
-  - 程序员购书导航指南：http://books.chengxumiao.net
-  - QQ：1056856191
+- 程序喵：http://www.ibloger.net / http://www.chengxumiao.net
+- 程序员购书导航指南：http://books.chengxumiao.net
 
 GitHub地址：https://github.com/X-rapido/CAS_SSO_Record
 
