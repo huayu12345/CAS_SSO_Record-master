@@ -70,7 +70,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>6.0.6</version>
+            <version>8.0.16</version>
         </dependency>
 
         <!--&lt;!&ndash; 若不想找驱动可以直接写下面的依赖即可，其中包括 HSQLDB、Oracle、MYSQL、PostgreSQL、MariaDB、Microsoft SQL Server &ndash;&gt;-->
